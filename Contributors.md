@@ -164,6 +164,7 @@
 - [Syarif Hidayatulloh](https://github.com/elSyarif)
 - [Deepanshu Kumar Sahu]
 - [Simon taksim]
+- [kimodocode] (https://github.com/kimodocode
 - [Isaac Kuria](https://github.com/kabszac)
 - [Rick](https://github.com/SharZzCode)
 - [Keegan](https://github.com/guitarkeegan)
